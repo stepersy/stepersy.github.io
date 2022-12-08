@@ -10,4 +10,4 @@ Html Project for my **Personal Website**
 
 
 
-![frame_generic_dark](https://user-images.githubusercontent.com/94073410/159520812-461a2a98-caa7-4595-b462-e4baff41b838.png)
+![frame_safari_dark](https://user-images.githubusercontent.com/94073410/206523854-856a72f9-d726-4bbd-8101-5cd6b38edab9.png)

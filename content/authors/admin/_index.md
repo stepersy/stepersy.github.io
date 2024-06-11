@@ -3,7 +3,7 @@
 title: Stefano Persano Adorno
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: ""
 
 # Full name (for SEO)
 first_name: Stefano
@@ -28,7 +28,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:spa@ik.me'
+    url: "mailto:spa@ik.me"
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/stepersy
@@ -46,20 +46,20 @@ education:
       Completed High School with a total score or 94/100.
   - area: EF SET English Certificate - C1 Advanced
     institution: EF Standard English Test
-    date_start: ''
+    date_start: ""
     date_end: 2023-08
     summary: |
       Total score: 70/100
     button:
-      text: 'Certificate'
-      url: 'https://cert.efset.org/aTvMnY'
+      text: "Certificate"
+      url: "https://cert.efset.org/aTvMnY"
 work:
   - position: Shipping and Technical Issues Manager
     company_name: Antica Farmacia Sant'Anna
     company_url: https://erboristeriadeifrati.it/
-    company_logo: ''
+    company_logo: ""
     date_start: 2023-12-20
-    date_end: Present
+    date_end: ""
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -67,31 +67,31 @@ skills:
   - name: Technical Skills
     items:
       - name: Wordpress
-        description: ''
+        description: ""
         percent: 85
         icon: devicon/wordpress
       - name: WooCommerce
-        description: ''
+        description: ""
         percent: 85
         icon: devicon/woocommerce
       - name: PayHip
-        description: ''
+        description: ""
         percent: 100
         icon: devicon/vuestorefront
   - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
+    color: "#eeac02"
+    color_border: "#f0bf23"
     items:
       - name: Translate open-source projects
-        description: ''
+        description: ""
         percent: 85
         icon: person-simple-walk
       - name: Music
-        description: ''
+        description: ""
         percent: 100
         icon: cat
       - name: Movies
-        description: ''
+        description: ""
         percent: 80
         icon: camera
 
@@ -100,7 +100,6 @@ languages:
     percent: 100
   - name: English
     percent: 65
-
 ---
 
 I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.

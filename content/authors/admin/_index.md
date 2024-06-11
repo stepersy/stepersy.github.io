@@ -64,7 +64,7 @@ work:
       Responsibilities include:
       - Shipment management and contact with couriers
       - Using the management system to confirm and enter orders from ecommerce into the system
-     - Troubleshooting technical and digital problems present online and offline
+      - Troubleshooting technical and digital problems present online and offline
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`

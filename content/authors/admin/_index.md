@@ -101,5 +101,5 @@ languages:
     percent: 65
 ---
 
-<center>I'm currently working as Digital Innovation & Technical Issues Officer @ Antica Farmacia Sant'Anna.
+<center>Currently working as Digital Innovation & Technical Issues Officer @ Antica Farmacia Sant'Anna.
 I am a recent graduate from Liceo S. Pertini in Genoa, Italy. I have a genuine passion for technology and love exploring new tools and innovative solutions to various problems. I've gained expertise in website and e-commerce development, particularly using Web Builders like WordPress, G Sites, Payhip and Ecwid.</center>

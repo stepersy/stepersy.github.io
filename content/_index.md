@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download Résumé
-        url: "custom/cv.pdf"
+        url: "/workspaces/stepersy.github.io/assets/media/icons/custom/cv.pdf"
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here

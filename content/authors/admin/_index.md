@@ -40,8 +40,8 @@ profiles:
 education:
   - area: High School Diploma - Human Science
     institution: Liceo Statale S. Pertini - Genoa, Italy
-    date_start: 17-09-2018
-    date_end: 03-07-2023
+    date_start: 2018-09-17
+    date_end: 2023-07-03
     summary: |
       Completed High School with a total score or 94/100.
   - area: EF SET English Certificate - C1 Advanced
@@ -58,7 +58,7 @@ work:
     company_name: Antica Farmacia Sant'Anna
     company_url: https://erboristeriadeifrati.it/
     company_logo: ''
-    date_start: 20-12-2023
+    date_start: 2023-12-20
     date_end: Present
 
 # Skills

@@ -47,7 +47,7 @@ education:
   - area: EF SET English Certificate - C1 Advanced
     institution: EF Standard English Test
     date_start: ''
-    date_end: August 2023
+    date_end: 2023-08
     summary: |
       Total score: 70/100
     button:

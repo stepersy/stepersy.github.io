@@ -1,0 +1,11 @@
+/* assets/css/custom.css */
+
+.theme-svg {
+  fill: black;
+}
+
+@media (prefers-color-scheme: dark) {
+  .theme-svg {
+    fill: white;
+  }
+}

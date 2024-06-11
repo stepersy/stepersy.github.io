@@ -70,15 +70,15 @@ skills:
       - name: Payhip
         description: ""
         percent: 100
-        icon: devicon/wordpress
+        icon: devicon/vuestorefront
+      - name: Windows
+        description: ""
+        percent: 100
+        icon: devicon/windows11
       - name: Wordpress & WooCommerce
         description: ""
         percent: 85
         icon: devicon/woocommerce
-      - name: PayHip
-        description: ""
-        percent: 100
-        icon: devicon/vuestorefront
   - name: Hobbies
     color: "#eeac02"
     color_border: "#f0bf23"

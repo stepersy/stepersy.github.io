@@ -38,12 +38,6 @@ profiles:
     url: https://signal.me/#eu/UMQaoWBmw7mUOhkM0XqKzSyKucvEyGL-t0PjpQ2m9pU9rRsxzcRAFr89TWE3iTkj
 
 education:
-  - area: High School Diploma - Human Science
-    institution: Liceo Statale S. Pertini - Genoa, Italy
-    date_start: 2018-09-17
-    date_end: 2023-07-03
-    summary: |
-      Completed High School with a total score or 94/100.
   - area: EF SET English Certificate - C1 Advanced
     institution: EF Standard English Test
     date_start: ""
@@ -53,6 +47,13 @@ education:
     button:
       text: "Certificate"
       url: "https://cert.efset.org/aTvMnY"
+  - area: High School Diploma - Human Science
+    institution: Liceo Statale S. Pertini - Genoa, Italy
+    date_start: 2018-09-17
+    date_end: 2023-07-03
+    summary: |
+      Completed High School with a total score or 94/100.
+
 work:
   - position: Shipping and Technical Issues Manager
     company_name: Antica Farmacia Sant'Anna
@@ -66,11 +67,11 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Wordpress
+      - name: Payhip
         description: ""
-        percent: 85
+        percent: 100
         icon: devicon/wordpress
-      - name: WooCommerce
+      - name: Wordpress & WooCommerce
         description: ""
         percent: 85
         icon: devicon/woocommerce
@@ -82,18 +83,18 @@ skills:
     color: "#eeac02"
     color_border: "#f0bf23"
     items:
-      - name: Translate open-source projects
-        description: ""
-        percent: 85
-        icon: person-simple-walk
-      - name: Music
+      - name: Translate projects
         description: ""
         percent: 100
-        icon: cat
-      - name: Movies
+        icon: "custom/translate"
+      - name: Listening to Music
         description: ""
-        percent: 80
-        icon: camera
+        percent: 95
+        icon: "custom/music"
+      - name: Watching Movies
+        description: ""
+        percent: 85
+        icon: "custom/movies"
 
 languages:
   - name: Italian
@@ -102,4 +103,5 @@ languages:
     percent: 65
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+I'm currently working as Digital Innovation & Technical Issues Officer @ Antica Farmacia Sant'Anna.
+I am a recent graduate from Liceo S. Pertini in Genoa, Italy. I have a genuine passion for technology and love exploring new tools and innovative solutions to various problems. I've gained expertise in website and e-commerce development, particularly using Web Builders like WordPress, G Sites, Payhip and Ecwid.

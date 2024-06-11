@@ -34,8 +34,6 @@ profiles:
     url: https://github.com/stepersy
   - icon: brands/linkedin
     url: https://www.linkedin.com/essepia
-  - icon: "custom/signal"
-    url: https://signal.me/#eu/UMQaoWBmw7mUOhkM0XqKzSyKucvEyGL-t0PjpQ2m9pU9rRsxzcRAFr89TWE3iTkj
 
 education:
   - area: EF SET English Certificate - C1 Advanced
@@ -103,5 +101,5 @@ languages:
     percent: 65
 ---
 
-I'm currently working as Digital Innovation & Technical Issues Officer @ Antica Farmacia Sant'Anna.
-I am a recent graduate from Liceo S. Pertini in Genoa, Italy. I have a genuine passion for technology and love exploring new tools and innovative solutions to various problems. I've gained expertise in website and e-commerce development, particularly using Web Builders like WordPress, G Sites, Payhip and Ecwid.
+<center>I'm currently working as Digital Innovation & Technical Issues Officer @ Antica Farmacia Sant'Anna.
+I am a recent graduate from Liceo S. Pertini in Genoa, Italy. I have a genuine passion for technology and love exploring new tools and innovative solutions to various problems. I've gained expertise in website and e-commerce development, particularly using Web Builders like WordPress, G Sites, Payhip and Ecwid.</center>
